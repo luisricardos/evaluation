@@ -1,0 +1,8 @@
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\bin\x64\Debug\Evaluation.Framework.Entity.dll
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\bin\x64\Debug\Evaluation.Framework.Entity.pdb
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\bin\x64\Debug\Evaluation.Framework.Entity.dll.CodeAnalysisLog.xml
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\bin\x64\Debug\Evaluation.Framework.Entity.dll.lastcodeanalysissucceeded
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\obj\x64\Debug\Evaluation.Framework.Entity.csprojAssemblyReference.cache
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\obj\x64\Debug\Evaluation.Framework.Entity.csproj.CoreCompileInputs.cache
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\obj\x64\Debug\Evaluation.Framework.Entity.dll
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Entity\obj\x64\Debug\Evaluation.Framework.Entity.pdb

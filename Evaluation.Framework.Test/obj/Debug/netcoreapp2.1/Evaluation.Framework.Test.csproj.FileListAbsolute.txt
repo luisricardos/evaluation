@@ -1,0 +1,4 @@
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Test\obj\Debug\netcoreapp2.1\Evaluation.Framework.Test.csprojAssemblyReference.cache
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Test\obj\Debug\netcoreapp2.1\Evaluation.Framework.Test.csproj.CoreCompileInputs.cache
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Test\obj\Debug\netcoreapp2.1\Evaluation.Framework.Test.AssemblyInfoInputs.cache
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\Evaluation.Framework.Test\obj\Debug\netcoreapp2.1\Evaluation.Framework.Test.AssemblyInfo.cs

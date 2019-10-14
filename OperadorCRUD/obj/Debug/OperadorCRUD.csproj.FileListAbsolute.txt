@@ -1,0 +1,5 @@
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\OperadorCRUD\obj\Debug\OperadorCRUD.csprojAssemblyReference.cache
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\OperadorCRUD\obj\Debug\OperadorCRUD.OperadorCRUD.resources
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\OperadorCRUD\obj\Debug\OperadorCRUD.ucCRUD.resources
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\OperadorCRUD\obj\Debug\OperadorCRUD.csproj.GenerateResource.cache
+C:\Users\luis.ricardo.d.silva\Downloads\TesteDotNet\OperadorCRUD\obj\Debug\OperadorCRUD.csproj.CoreCompileInputs.cache
